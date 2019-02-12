@@ -15,4 +15,4 @@ MY CONTENTION
 
 NEXT THING TO DO
 
-(-) Post more stuff to the GitHub.
+(-) Post more stuff to the GitHub repo.
